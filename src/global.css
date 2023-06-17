@@ -4,7 +4,7 @@
 
 body {
     color: #fff;
-    background-image: url("./body_background.jpg");
+    background-image: url("./public/body_background.jpg");
     background-size: cover;
     font-family: sans-serif;
     min-height: 100vh;
